@@ -1,0 +1,24 @@
+{
+  "name": "learningspringboot",
+  "version": "0.1.0",
+  "description": "一个掌握 Spring Boot 的项目。",
+  "main": "index.js",
+  "scripts": {
+      "git-push": "git add . && git commit -m \"Updated.\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnu4cn/learningSpringBoot.git"
+  },
+  "keywords": [
+    "Spring",
+    "Boot",
+    "学习"
+  ],
+  "author": "unisko@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnu4cn/learningSpringBoot/issues"
+  },
+  "homepage": "https://github.com/gnu4cn/learningSpringBoot#readme"
+}
